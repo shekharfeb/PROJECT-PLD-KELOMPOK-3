@@ -1,0 +1,25 @@
+.banner {
+    background: url("https://c4.wallpaperflare.com/wallpaper/703/1004/52/soccer-manchester-united-f-c-logo-wallpaper-preview.jpg") 
+    no-repeat center center; 
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 30%;
+    color: #fff;
+}
+.Kontak {
+    background: url("https://c4.wallpaperflare.com/wallpaper/954/894/371/soccer-manchester-united-f-c-logo-wallpaper-preview.jpg") 
+    no-repeat center center; 
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 30%;
+    color: #fff;
+}
+a.sosial{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: #333;
+    line-height: 40px;
+}
